@@ -1,10 +1,4 @@
-# Chat App : CLOUD COMPUTING PROJECT
-
-#### TEAM MEMBERS:
-#### Shreya Kishor - PES1UG20CS400
-#### Shreya S Adiga - PES1UG20CS401
-#### Shruti M Karande - PES1UG20CS417
-#### Shubha V Hegde - PES1UG20CS419
+# Chat App : 
 
 A NodeJS (Apollo Server) + ReactJS Chat Application which utilizes AWS RDS for storing the messages, users, and reactions in a MySQL database instance, and deployment on an EC2 instance using AWS EC2, by configuring appropriate security group inbound rules for HTTP, SSH and MySQL (Port:3306). Utilization of Nginx as a Reverse Proxy to pass all api requests to our localhost server running using PM2 - a production process manager. 
 The app can be accessed on the URL: http://18.212.173.130/
